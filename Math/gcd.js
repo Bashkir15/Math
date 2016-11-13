@@ -63,6 +63,6 @@ var gcdBinary = (a, b) => {
 };
 
 module.exports = {
-	gcdDivision: gcdDivision,
-	gcdBinary: gcdBinary
+	division: gcdDivision,
+	binary: gcdBinary
 };

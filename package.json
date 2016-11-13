@@ -1,0 +1,11 @@
+{
+  "name": "math",
+  "version": "0.0.1",
+  "description": "\"A small work-in-progress would be math library for javascript\"",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Forrest Collins",
+  "license": "ISC"
+}
